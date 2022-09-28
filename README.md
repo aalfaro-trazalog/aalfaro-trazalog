@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Amalia Alfaro
-- 👀 I’m interested in ...
+- 👀 I’m interested in desing web, marketing and pokemons!
 - 🌱 I’m currently learning SQL, Python 
-- 💞️ I’m looking to collaborate on ...
 - 📫 amaliaalfaro.up@gmail.coom
 
 <!---
